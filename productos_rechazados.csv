@@ -1,0 +1,5 @@
+id;nombre;motivo
+7;Soporte para monitor;precio faltante o inválido
+8;Hub USB;stock faltante o inválido
+8;Hub USB duplicado;id duplicado
+9;Producto sin usuario válido;usuario inexistente
